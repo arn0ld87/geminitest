@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Quiz Solver & AI Assistant",
+  "description": "An AI-powered tool to help you solve quizzes, chat with advanced models, and analyze images and videos. Paste your quiz, and the AI will find and highlight the correct answers using Google Search for up-to-date information.",
+  "requestFramePermissions": []
+}
